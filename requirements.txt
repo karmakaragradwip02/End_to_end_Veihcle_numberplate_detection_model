@@ -1,0 +1,6 @@
+roboflow
+ipykernel
+numpy
+pandas
+mlflow
+dvc
