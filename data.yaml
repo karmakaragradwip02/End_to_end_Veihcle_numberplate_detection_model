@@ -1,0 +1,12 @@
+names:
+- License_Plate
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: vehicle-registration-plates-trudk
+  url: https://universe.roboflow.com/augmented-startups/vehicle-registration-plates-trudk/dataset/2
+  version: 2
+  workspace: augmented-startups
+test: End_to_end_Veihcle_numberplate_detection_model/dataset/test/images
+train: End_to_end_Veihcle_numberplate_detection_model/dataset/train/images
+val: End_to_end_Veihcle_numberplate_detection_model/dataset/valid/images
